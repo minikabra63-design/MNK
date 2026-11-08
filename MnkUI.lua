@@ -1,4 +1,4 @@
-
+print("MNK SCRIPT STARTED")
 -- Mnk style ui
 -- Standalone interface
 
@@ -195,3 +195,4 @@ local getSmoothness = createSlider("SMOOTHNESS", 175, 1, 20, 8)
 print("NOCTRA UI LOADED")
 print("FOV:", getFOV())
 print("Smoothness:", getSmoothness())
+print("MNK SCRIPT FINISHED")
